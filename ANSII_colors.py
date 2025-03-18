@@ -1,0 +1,5 @@
+# ANSII colors for terminal
+GREEN_COLOR = "\033[0;32m"
+YELLOW_COLOR = "\033[1;33m"
+LIGHT_WHITE_COLOR = "\033[1;37m"
+END_COLOR = "\033[0m"
