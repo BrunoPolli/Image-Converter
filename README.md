@@ -50,6 +50,7 @@ pip install -r .\requirements.txt
 ## Example
 ![image](https://github.com/user-attachments/assets/ea75c1fd-9156-4e9f-8dfb-ed5dd60526ac)
 
+---
 
 ![LOGO](https://github.com/user-attachments/assets/aba18c0b-214a-4327-85db-5507e404c475)  
 
